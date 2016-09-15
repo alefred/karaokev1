@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails karaoke: production" uuid="d902f575-e63e-4dd0-b038-aec7a5dceee1">
+      <database-info product="MySQL" version="5.6.21" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe1dfebdff8dfebdfe5dfe1dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <introspection-scope>karaoke_production:</introspection-scope>
+      <resolve-scope>karaoke_production:</resolve-scope>
+    </data-source>
+    <data-source name="Rails karaoke: development" uuid="5d40aa7e-1908-4ee5-954f-dd21bbfcff46">
+      <database-info product="MySQL" version="5.6.21" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>dfc9dfc5dfd8dfc4dfcfdfc0dfc5df92df9f</user-password>
+      <introspection-scope>karaoke_development:</introspection-scope>
+      <resolve-scope>karaoke_development:</resolve-scope>
+    </data-source>
+    <data-source name="Rails karaoke: test" uuid="bf78b067-4b60-4e7e-8cc0-dccc98f2a52a">
+      <database-info product="MySQL" version="5.6.21" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>dfc9dfc5dfd8dfc4dfcfdfc0dfc5df92df9f</user-password>
+      <introspection-scope>karaoke_test:</introspection-scope>
+      <resolve-scope>karaoke_test:</resolve-scope>
+    </data-source>
+  </component>
+</project>

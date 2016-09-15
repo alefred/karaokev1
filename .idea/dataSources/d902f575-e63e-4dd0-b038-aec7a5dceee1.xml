@@ -1,0 +1,13 @@
+<dataSource name="Rails karaoke: production">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+    <schema id="1" name="karaoke_production">
+      <visible>1</visible>
+    </schema>
+    <schema id="2" name="information_schema" />
+    <schema id="3" name="karaoke" />
+    <schema id="4" name="karaoke_development" />
+    <schema id="5" name="karaoke_test" />
+    <schema id="6" name="mysql" />
+    <schema id="7" name="performance_schema" />
+  </database-model>
+</dataSource>
